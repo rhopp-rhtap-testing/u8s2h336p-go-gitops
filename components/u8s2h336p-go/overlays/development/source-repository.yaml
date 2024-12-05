@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: u8s2h336p-go-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/u8s2h336p-go
